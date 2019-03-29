@@ -17,7 +17,7 @@ set ip=google.com
 :: Delay between the pings:
 set delay=1
 
-echo -h 0 -3gcd 0 1 0x75 "=== Ozachi Ping Graphics ===" 0 2 0x79 "Thank you to use me^! Github:" 0 3 0x79 "https://github.com/OzachiDev"
+echo -h 0 -3gcd 0 1 0x75 "=== Ozachi Ping Graphics ===" 0 2 0x79 "Thank you for using me^! Github:" 0 3 0x79 "https://github.com/OzachiDev"
 call :inigraph
 :loop
 for /f "tokens=1-4 delims== " %%1 in ('ping %ip% -n 1') do set ms=%%4
