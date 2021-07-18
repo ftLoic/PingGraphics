@@ -6,4 +6,4 @@ You just need to download pinggraphics.bat and darkbox.exe, which is a fast I/O 
 
 Now, you can see your beautiful -or not- ping in graphics!
 
-**You can contact me on Twitter if you have any question: @Ozachi_ or on Discord: Loïc#6237**
+**You can contact me on Twitter if you have any question: @ftLoic or on Discord: Loïc#6237**
